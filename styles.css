@@ -1,0 +1,26 @@
+section{
+    text-align: center
+}
+
+footer{
+    text-align: center
+}
+
+ul li{
+display: inline-block;
+    font-size: 24px;
+    margin-right: 50px;
+}
+
+nav {
+    text-align: center;
+}
+
+ul li a:hover{
+color: rgb(238, 5, 5);
+}
+ 
+
+table{
+    margin: auto;
+}
